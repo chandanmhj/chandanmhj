@@ -1,5 +1,5 @@
 #  About Me:
-Hi  I’m Chandan  <br>An Artificial Intelligence & Data Science engineering student with a strong interest in building practical, ethical, and scalable tech solutions.<br><br>I enjoy working with Python, AI/ML concepts, and full-stack fundamentals, and I’m constantly learning by building projects and experimenting with new tools.  <br>Currently focused on improving problem-solving skills, clean code practices, and real-world applications of AI.<br><br>🚀 Learning • Building • Growing<br>
+Hi  I’m Chandan  <br>An Artificial Intelligence & Data Science engineering student with a strong interest in building practical, ethical, and scalable tech solutions.<br><br>I enjoy working with Python, AI/ML concepts, and full-stack fundamentals, and I’m constantly learning by building projects and experimenting with new tools.  <br>Currently focused on improving problem-solving skills, clean code practices, and real-world applications of AI.<br><br> Learning • Building • Growing<br>
 
 
 # 💻 Tech Stack:
